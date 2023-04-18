@@ -6,7 +6,7 @@
   <p> 🏷 My name is Mehmet </p>
   <p> 🤓 I am front-end developer </p>
   <p> 🏳 I live in Turkey </p>
-  <p> 🖥 Favorite programming language <a href="https://tr.wikipedia.org/wiki/HTML"> HTML </a> and <a href="https://tr.wikipedia.org/wiki/CSS"> CSS </p>
+  <p> 🖥 Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> JavaScript </a> </p>
 
 
 <h1> ✍ Technologies I use </h1>
