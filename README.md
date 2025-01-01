@@ -4,7 +4,7 @@
   
 <h1> ❔ About </h1>
   <p> 🏷 My name is Mehmet </p>
-  <p> 🤓 I am front-end developer </p>
+  <p> 🤓 I am back-end developer </p>
   <p> 🏳 I live in Turkey </p>
   <p> 🖥 Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> JavaScript </a> </p>
 
